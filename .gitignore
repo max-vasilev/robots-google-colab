@@ -1,0 +1,11 @@
+# trained weights and checkpoints (large, keep out of git)
+*.pkl
+*.pt
+checkpoints/
+# videos
+*.mp4
+*.gif
+# notebook / python junk
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
